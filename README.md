@@ -13,6 +13,9 @@ Prediction using Supervised ML (Level - Beginner)
 
 ● Data can be found at http://bit.ly/w-dat
 
+
+
+
 TASK-2
 
 Prediction using Unsupervised ML (Level - Beginner)
@@ -22,6 +25,9 @@ Prediction using Unsupervised ML (Level - Beginner)
 ● Use R or Python or perform this task 
 
 ● Dataset : https://bit.ly/3kXTdox 
+
+
+
 
 TASK-3
 
